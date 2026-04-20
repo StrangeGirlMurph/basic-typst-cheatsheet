@@ -142,7 +142,7 @@ Basically how to do everything that markdown can. For example if someone else al
   $ vec(1, 2), lt.eq.not, cal(A) := {x in RR | norm(x) = 1} $
 
   $
-    product_(k=1)^n k & = 1 dot ... dot k \
+    product_(k=1)^n k & = 1 dot ... dot n \
                       & = n!
   $
 ]
