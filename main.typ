@@ -156,9 +156,9 @@ Basically how to do everything that markdown can. For example if someone else al
   ```typst
   This is how you preview files in the web editor:
   #image("assets/screenshot.png", width: 70%)
-  ```
 
-  Pick the file in the explorer and then press the eye botton. The rest should be self-explanatory.
+  // Pick the file in the explorer and then press the eye botton. The rest should be self-explanatory.
+  ```
 
   #colbreak()
 
